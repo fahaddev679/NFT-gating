@@ -42,13 +42,13 @@ To set up and run the NFT Gating application, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory: `cd NFT-gating`.
-3. Install dependencies for both the API and the client by running:
+3. Install dependencies for both the server and the client by running:
    npm install
 4. Make sure you have the required tools and packages installed, including `web3`, `vite`, `express`, `cors`, and others.
 
 ## Usage
 
-1. Start the API server: Navigate to the `api` directory and run:
+1. Start the API server: Navigate to the `server` directory and run:
    npm start
 2. Start the React front-end: Navigate to the `client` directory and run:
    npm run dev
